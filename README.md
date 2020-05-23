@@ -3,7 +3,7 @@ This folder contains all the raw data and scripts needed to perform the calculat
 
 681c5LT_0.newinfo.withlengths.sorted.txt contains all of the insertions from our lineage tracing dataset (Figure 5)
 above the cutoff abundance of 0.0139%. The other files are just there so that the code runs, and as a sanity check.
-Other than deleting the low-abundance insertions and combining all the files into 
+Other than deleting the low-abundance insertions and ROOT sequence, and combining all the files into 
 681c5LT_0.newinfo.withlengths.sorted.txt, these "withlengths.sorted.txt" files are just as they came off the 
 CHYRON-NGS pipeline.
 
