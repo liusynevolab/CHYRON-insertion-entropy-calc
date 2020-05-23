@@ -1,5 +1,5 @@
 # insertion-entropy-calc
-This folder contains all the raw data and scripts needed to perform the calculation shown in Figure S5A.
+This folder contains all the raw data and scripts needed to perform the calculation shown in Figure S5a.
 
 681c5LT_0.newinfo.withlengths.sorted.txt contains all of the insertions from our lineage tracing dataset (Figure 5)
 above the cutoff abundance of 0.0139%. The other files are just there so that the code runs, and as a sanity check.
